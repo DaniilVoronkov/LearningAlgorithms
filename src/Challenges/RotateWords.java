@@ -1,12 +1,15 @@
 package Challenges;
 
 
+//Test comment
+
 public class RotateWords {
     public static void main(String[] args) {
         System.out.println(reverseSentence("This is a test string"));
     }
 
     public static String reverseSentence(String sentence) {
+        //if the string is empty - we cant reverse it
         if(sentence.isEmpty()) {
             return null;
         }

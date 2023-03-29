@@ -7,6 +7,7 @@ public class RotateArray {
         System.out.println(Arrays.toString(rotateArray(new int[]{1, 2, 3, 4, 5, 6})));
     }
 
+    //rotating array by number of positions
     public static int[] rotateArray(int[] arr) {
         int first = arr[0];
         for(int i = 1; i < arr.length; i++) {
