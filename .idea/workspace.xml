@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3510fa8-a896-4780-9022-06e99850d263" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningAlgorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BreadthFirstSearchAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenges/DeleteFromList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenges/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenges/RotateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChoiceSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LearningHashTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion.java" afterDir="false" />
-    </list>
+    <list default="true" id="c3510fa8-a896-4780-9022-06e99850d263" name="Changes" comment="Commiting before publishing in github repo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +109,16 @@
       <workItem from="1679682460637" duration="7662000" />
       <workItem from="1679723490558" duration="1353000" />
       <workItem from="1679803897796" duration="2820000" />
+      <workItem from="1680059346171" duration="360000" />
     </task>
+    <task id="LOCAL-00001" summary="Commiting before publishing in github repo">
+      <created>1680059440389</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680059440389</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commiting before publishing in github repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting before publishing in github repo" />
   </component>
 </project>
