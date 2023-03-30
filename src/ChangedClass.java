@@ -9,6 +9,6 @@ public class ChangedClass {
     }
 
     public static int mainTest() {
-        return 0;
+        return 123;
     }
 }
