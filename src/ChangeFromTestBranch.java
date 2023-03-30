@@ -1,4 +1,5 @@
-public class ChangedClass {
+public class ChangeFromTestBranch {
+
     public static void main(String[] args) {
 
     }
