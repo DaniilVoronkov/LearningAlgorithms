@@ -1,5 +1,4 @@
-public class ChangeFromTestBranch {
-
+public class LearningPullRequest {
     public static void main(String[] args) {
 
     }
